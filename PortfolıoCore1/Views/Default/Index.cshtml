@@ -1,0 +1,58 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("DefaultHeadComponentPartial")
+
+
+<body class="index-page">
+
+	@await Component.InvokeAsync("DefaultSidebarComponentPartial")
+
+	<main class="main">
+
+		@await Component.InvokeAsync("DefaultFeatureComponentPartial")
+		<!-- Hero Section -->
+		<!-- /Hero Section -->
+		<!-- About Section -->
+		@await Component.InvokeAsync("DefaultAboutComponentPartial")
+
+		<!-- Stats Section -->
+		@await Component.InvokeAsync("DefaultStatsComponentPartial")
+		<!-- Skills Section -->
+		@await Component.InvokeAsync("DefaultSkillComponentPartial")
+
+
+		<!-- Resume Section -->
+		@await Component.InvokeAsync("DefaultEducationComponentPartial")
+
+
+		<!-- Portfolio Section -->
+		@await Component.InvokeAsync("DefaultPortfolioComponentPartial")
+		<!-- /Portfolio Section -->
+		<!-- Services Section -->
+		@await Component.InvokeAsync("DefaultServiceComponentPartial")
+
+
+		<!-- Testimonials Section -->
+		@await Component.InvokeAsync("DefaultTestmonialComponentPatial")
+		<!-- /Testimonials Section -->
+		<!-- Contact Section -->
+		@await Component.InvokeAsync("DefaultContactComponentPartial")
+
+
+
+	</main>
+
+	@await Component.InvokeAsync("DefaultFooterComponentPartial")
+
+
+
+	@await Component.InvokeAsync("DefaultScriptComponentPartial")
+
+</body>
+
+</html>
