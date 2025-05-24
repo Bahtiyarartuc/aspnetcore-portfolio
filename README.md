@@ -25,3 +25,8 @@ Bu proje kapsamında, dinamik yapıya sahip bir Portföyo sitesi geliştirerek k
 Kullanıcı Arayüzü : Ana sayfada hakkımda bilgiler, projelerim, deneyimlerim gibi içerikler Bulunmaktadır.
 
 Yönetim Paneli (Admin): Tüm bu içerikler üzerinde CRUD işlemleri yapabileceğim bir kontrol paneli yer almakta. Bu panel sayesinde içerik güncellemeleri oldukça pratik bir şekilde gerçekleştirilebiliyor. ✏️
+
+![](https://github.com/Bahtiyarartuc/aspnetcore-portfolio/blob/db5d2e7be85f6d35e8edb2f7acf4bb97f6d9c6d4/ProjectScreen/1.jpg)
+![](https://github.com/Bahtiyarartuc/aspnetcore-portfolio/blob/db5d2e7be85f6d35e8edb2f7acf4bb97f6d9c6d4/ProjectScreen/4.jpg)
+![](https://github.com/Bahtiyarartuc/aspnetcore-portfolio/blob/db5d2e7be85f6d35e8edb2f7acf4bb97f6d9c6d4/ProjectScreen/2.jpg)
+![](https://github.com/Bahtiyarartuc/aspnetcore-portfolio/blob/db5d2e7be85f6d35e8edb2f7acf4bb97f6d9c6d4/ProjectScreen/3.jpg)
